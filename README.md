@@ -8,8 +8,7 @@ Significantly optimized for STM32 boards. Supports 36MHz SPI and DMA channel
 
 ## Configuration
 
-Use "#define COMPATIBILITY_MODE" - then the library should work on all Arduino compatible boards
-Remove above for the best performance on 16MHz AVR
+Use "#define COMPATIBILITY_MODE" - then the library doesn't use DMA
 
 Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected to the ground, it gives better performance
 
