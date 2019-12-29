@@ -40,3 +40,6 @@ Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected 
  |#07| GND | GND|
  |#08| VCC | 3.3V|
  
+ If you find it useful and want to buy me a coffee or a beer:
+
+https://www.paypal.me/cbm80amiga
